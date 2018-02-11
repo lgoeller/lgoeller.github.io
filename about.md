@@ -1,19 +1,18 @@
 ---
-title:      About
-layout:     page
-permalink:  /about.html
+layout: page
+title: About
+permalink: /about/
 ---
 
-Hello! My name is Lisa Goeller. This site works as a blog for me to discuss my thoughts on whatever I'm interested in at the moment, as well as a gallery of my projects. 
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-If you want to get in touch: `lgoeller@hmc.edu`. 
+You can find the source code for Minima at GitHub:
+[jekyll][jekyll-organization] /
+[minima](https://github.com/jekyll/minima)
 
-<p style="text-align:center;">
-<img src="{{site.url}}/assets/lisa.jpg" height="300" width="200"
-alt="daniel"><br>
+You can find the source code for Jekyll at GitHub:
+[jekyll][jekyll-organization] /
+[jekyll](https://github.com/jekyll/jekyll)
 
-Sprinkle Pool, Museum of Icecream, SF, 2018
-</p>
 
-[My LinkedIn](https://www.linkedin.com/in/lgoeller/)
-
+[jekyll-organization]: https://github.com/jekyll
