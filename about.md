@@ -10,9 +10,9 @@ If you want to get in touch: `lgoeller@hmc.edu`.
 
 <p style="text-align:center;">
 <img src="{{site.url}}/assets/lisa.jpg" height="300" width="200"
-alt="daniel"><br>
+alt="Lisa"><br>
 
-Sprinkle Pool, Museum of Icecream, SF, 2018
+Candid Shot of me in Sprinkle Pool, Museum of Icecream, SF, 2018
 </p>
 
 [My LinkedIn](https://www.linkedin.com/in/lgoeller/)

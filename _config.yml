@@ -22,3 +22,4 @@ exclude:
 # If I ever need more pages
 # gems:     [jekyll-paginate]
 # paginage: 15
+show_excerpts: true
