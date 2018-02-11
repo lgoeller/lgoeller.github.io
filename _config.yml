@@ -1,0 +1,24 @@
+# Site settings
+title:            "Lisa Goeller"
+author:           Lisa Goeller
+# email: 
+description: > # this means to ignore newlines until "baseurl:"
+  This is my blog. 
+baseurl:          ""
+url:              "https://lgoeller.github.io"
+github_username:  lgoeller
+
+# Minima date format
+minima:
+  date_format:    "%b %-d, %Y"
+
+# Build settings
+markdown:          kramdown
+theme:             minima
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+# If I ever need more pages
+# gems:     [jekyll-paginate]
+# paginage: 15
