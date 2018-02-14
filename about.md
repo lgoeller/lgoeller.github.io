@@ -13,5 +13,9 @@ alt="Lisa"><br>
 Candid shot of me in the sprinkle pool at the Museum of Icecream. SF, 2018.
 </p>
 
+<<<<<<< HEAD
 
+=======
+[My LinkedIn](https://www.linkedin.com/in/lisagoeller/)
+>>>>>>> 4e229718415fb5cde54a149c675e37bc828b164f
 
