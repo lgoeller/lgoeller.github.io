@@ -1,8 +1,9 @@
 
-title: "Lisa's Blog"
+title: "Lisa's Lessons"
 email: lgoeller@hmc.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  This is my blog
+  This site acts as a a gallery of my projects, as well as a way for me 
+  to discuss my thoughts on whatever I’m interested in at the moment.
 baseurl: "" 
 url: "https://lgoeller.github.io" 
 github_username:  lgoeller
